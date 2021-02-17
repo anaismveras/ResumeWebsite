@@ -1,0 +1,141 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 100%;
+}
+
+hr {
+  border-top: 7px dotted darkgrey;
+  width: 5%;
+  border-left: 0;
+  border-bottom: 0;
+  border-right: 0;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Permanent Marker', cursive;
+  color: #191970;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #00008B;
+  padding-bottom: 5px;
+}
+
+p {
+  line-height: 2;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Merriweather Sans', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: darkgrey;
+}
+
+.program {
+  font-weight: normal;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.intro {
+  width: 70%;
+  margin: auto;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.top-container {
+  background-color: #87CEFA;
+  position: relative;
+  padding-top: 50px;
+}
+
+.skyline {
+  width: 100%;
+  position: relative;
+  top: 10px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.Coding-img {
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+
+.Friends-img {
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+.bottom-container {
+  background-color: #87CEFA;
+  position: relative;
+  padding: 50px 0 20px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 550px;
+  color: #11999E;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #FFFFFF;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 15px;
+  font-weight: 100;
+  padding: 20px;
+  background-color: #3D94F6;
+  text-shadow: 1px 1px 15px #000000;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin-bottom: 5rem;
+}
+
+.Trademark {
+  color: darkgrey;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
