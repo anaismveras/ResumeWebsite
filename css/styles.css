@@ -38,6 +38,7 @@ a {
   text-decoration: none;
 }
 
+
 a:hover {
   color: darkgrey;
 }
@@ -56,6 +57,10 @@ a:hover {
 h3 {
   font-family: 'Montserrat', sans-serif;
   color: #11999E;
+}
+
+button{
+  margin-bottom: 20px;
 }
 
 .top-container {
@@ -90,6 +95,12 @@ h3 {
   width: 30%;
   float: right;
   margin-left: 30px;
+}
+.hobbies {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #00008B;
+  padding-bottom: 5px;
 }
 
 .bottom-container {
